@@ -392,7 +392,7 @@ ul { list-style: none; }
 .service-card--featured .service-card__list li::before { color: var(--gold-light); }
 .service-card--featured p,
 .service-card--featured ul { color: white; }
-.service-card--featured h3 { color: white; }
+.service-card--featured h3 { color: var(--gold-light); }
 .service-card--wide { grid-column: 1 / -1; flex-direction: row; align-items: center; gap: 40px; }
 .service-card__badge {
   position: absolute; top: 20px; right: 20px;
