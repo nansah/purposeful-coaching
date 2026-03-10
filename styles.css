@@ -412,6 +412,7 @@ ul { list-style: none; }
 .service-card h3 {
   font-size: 1.3rem; color: var(--navy); margin-bottom: 12px;
 }
+.service-card--featured h3 { color: var(--gold-light); }
 .service-card p {
   font-size: 0.9rem; color: var(--text-muted);
   line-height: 1.7; margin-bottom: 20px; flex: 1;
